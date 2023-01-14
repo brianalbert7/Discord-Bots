@@ -15,4 +15,4 @@ To create and test your bots:
 7. Open a command prompt and type CD 'path to directory' and hit enter
   - Path to directory should be changed to the path to the directory containing your.js file. You can get this by clicking on the folder and clicking copy path in windows file explorer. 
 8. In the command prompt type 'npm install --save discord.js' and hit enter
-9. 
+9. Ask me to set up the bot and I will send you a token for testing
