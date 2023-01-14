@@ -1,7 +1,7 @@
 # Discord-Bots
 Discord Bots for Bilns Silns and BS
 
-To create and test your bots:
+To create and test your bots (you bots):
 1. Download nvm-setup.exe from https://github.com/coreybutler/nvm-windows/releases
 2. Run a command prompt as administrator
 3. Type 'nvm install latest' and hit enter
